@@ -2,7 +2,7 @@
 
 This Python code is designed to detect objects using the YOLOv5 model in either an image or video file. Here's a breakdown of how the code works:
 
-🔧** Setup & Libraries**
+🔧**Setup & Libraries**
 
 import os, cv2, torch, shutil, csv
 import pandas as pd
